@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://avatars.githubusercontent.com/u/42197324?v=4',
       name: 'Lucas',
-      description: 'Open Yy <a href="https://guofan.fun" class="text-blue-500" target="_blank" >Blog</a>',
+      description: 'Open My <a href="https://guofan.fun" class="text-blue-500" target="_blank" >Blog</a>',
     },
   }
 }
